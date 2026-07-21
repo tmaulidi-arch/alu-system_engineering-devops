@@ -1,2 +1,1 @@
-# ALU System Engineering and DevOps
-This project covers system engineering and DevOps concepts.
+# alu-system_engineering-devops
